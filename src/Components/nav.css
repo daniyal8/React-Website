@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(40, 44, 52);
+    margin: 0px;
+}
+.container {
+    padding: 40px;
+    margin-top: 130px;
+}
+  
+.slick-slide img {
+    margin: auto;
+    margin-top: 60px;
+    width: 100%;
+    height: 700px;
+    outline: none;
+    border: none;
+} 
+  .styles_home__2w94I{ 
+    border-color: #61dafb;
+    border-width: 4px;
+}
+.styles_navLinks__38tON li a:hover{
+    border-color: darkblue;
+    border-width: 4px;
+}
+.styles_navSocial__3JBh_ li{
+    border-color:  #61dafb;
+}
+.styles_navSocial__3JBh_ li:hover{
+    background-color: #61dafb;
+} 
+

@@ -1,0 +1,30 @@
+h1{
+    color:  #61dafb;
+    text-transform: uppercase;
+    margin-left: 100px;
+}
+.install{
+    color: darkblue;
+    margin-left: 880px;
+    border: 4px solid #61dafb;
+    width: 500px;
+    text-align: center;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #61dafb;
+}
+.main{
+    text-align: center;
+}
+.text{
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.end{
+    color: white;
+    border: 2px solid #61dafb;
+    background-color: #61dafb;
+    border-radius: 5px;
+    font-size: 30px;
+}
